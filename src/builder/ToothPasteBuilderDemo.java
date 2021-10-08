@@ -20,26 +20,7 @@ public class ToothPasteBuilderDemo {
 
 
 
-//		System.out.println(toothPaste);
-//
-//
-//		toothPaste = new ToothPasteStateKeeper();
-//
-//		System.out.println(toothPaste);
-//
-//		toothPaste.applyBrush();
-//
-//		toothPaste.polishTeeth();
-//		toothPaste.removeTar();
-//		toothPaste.relieveSensitivity();
-//		toothPaste.cleanTeeth();
-//
-//		toothPaste.removePlague();
-//		toothPaste.removeTar();
-//		toothPaste.cleanTeeth();
-//		toothPaste.relieveSensitivity();
-//		toothPaste.cleanTeeth();
-//
+ 
 
 
 
